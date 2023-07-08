@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "enzyme-wait": "^1.0.9",
-    "jsdom": "^9.9.1",
+    "jsdom": "^22.1.0",
     "mocha": "^5.2.0",
     "react-scripts": "^5.0.1",
     "react-test-renderer": "^16.0.0",
